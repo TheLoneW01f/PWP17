@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test3</string>
+    <string name="nocamerapermission">Unable to invoke Camera without permission</string>
+    <string name="picturesaved">Picture Saved</string>
+    <string name="probabilityValue">probability value</string>
+</resources>

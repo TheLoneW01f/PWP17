@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "439388419088",
+    "firebase_url": "https://closesttosemi.firebaseio.com",
+    "project_id": "closesttosemi",
+    "storage_bucket": "closesttosemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439388419088:android:7c6cbe5b93d28133",
+        "android_client_info": {
+          "package_name": "com.example.semi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439388419088-gkouq54ma65g5fltalc3lg3dv2v9g94c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.semi",
+            "certificate_hash": "97dbe1b444506ff7846266e571c1f103ed9234c1"
+          }
+        },
+        {
+          "client_id": "439388419088-c1hducv578rlokc6ar38fhooth1egbb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.semi",
+            "certificate_hash": "7aff2ed297a293a2ed50226f29be0d7ad8087a7a"
+          }
+        },
+        {
+          "client_id": "439388419088-af7k0vftmtos7ec6egmuj6k8au29uito.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhhAVFRfqSQZ_RPa0raD2kq8fgFZgjuLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439388419088-af7k0vftmtos7ec6egmuj6k8au29uito.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
